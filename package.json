@@ -1,0 +1,23 @@
+{
+  "name": "python-implementations-in-js",
+  "version": "1.0.0",
+  "description": "My attempt at implementing Python functions in JS just for fun",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeohangRai/Python-Implementations-in-JS.git"
+  },
+  "keywords": [
+    "python",
+    "js"
+  ],
+  "author": "Leohang Rai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeohangRai/Python-Implementations-in-JS/issues"
+  },
+  "homepage": "https://github.com/LeohangRai/Python-Implementations-in-JS#readme"
+}
